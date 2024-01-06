@@ -1,0 +1,1 @@
+Hello, Git! This repo is your new home!
