@@ -1,1 +1,2 @@
 Hello, Git! This repo is your new home!
+This text was used to analyze the staging state of the git-test repo.
